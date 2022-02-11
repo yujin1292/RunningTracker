@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11574074074074074" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.44642857142857145" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable/ic_add_black.xml" value="0.11574074074074074" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11574074074074074" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.11574074074074074" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/drawable/ic_run.xml" value="0.2140625" />
         <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/activity_main.xml" value="0.12273550724637682" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/fragment_run.xml" value="0.18568840579710144" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/fragment_setting.xml" value="0.13949275362318841" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/fragment_setup.xml" value="0.18568840579710144" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.13949275362318841" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/fragment_tracking.xml" value="0.12" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/layout/item_run.xml" value="0.18568840579710144" />
+        <entry key="..\:/Code/GitHub/RunningTracker/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2682291666666667" />
       </map>
     </option>
   </component>
